@@ -1,0 +1,19 @@
+.header__navlink {
+  color: #C0C0C0;
+  text-decoration: none;
+  margin: 0 5px;
+}
+.header__navlink:hover {
+  text-decoration: none;
+  color: #DCDCDC;
+}
+
+#account_name {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#dropdown-basic-button {
+  display: flex;
+  align-items: center;
+}
